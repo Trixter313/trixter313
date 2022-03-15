@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick Cipriani.
 - 👀 I’m interested in web development and figuring out what I want to do for a career within the computer science world.
-- 🌱 I’m currently taking Alogrithms, Computer Vision, and Computer Organization.
+- 🌱 I’m currently taking Algorithms, Computer Vision, and Computer Organization.
 - 📫 You can contact me at nick@ncip.dev.
 
 <!---
